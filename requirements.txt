@@ -1,0 +1,7 @@
+streamlit
+backtrader
+yfinance
+pandas
+matplotlib
+numpy
+pandas
